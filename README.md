@@ -1,4 +1,4 @@
-# 🎮 Pokémon Finder
+# Pokémon Finder
 
 A responsive **Pokémon Finder Application** built with **React.js**, styled using **Tailwind CSS**, and powered entirely by **[PokéAPI](https://pokeapi.co/)**.  
 
@@ -6,16 +6,16 @@ This app lets you search and explore Pokémon with detailed stats, abilities, an
 
 ---
 
-## ✨ Features
-- 🔎 **Search Pokémon** by name  
-- 🌙 **Dark/Light mode toggle**  
-- 📊 View **detailed stats** (HP, Attack, Defense, etc.)  
-- 🖼️ Official Pokémon **sprites** from PokéAPI  
-- 📱 **Fully responsive design** for all devices  
+## Features
+-  **Search Pokémon** by name  
+-  **Dark/Light mode toggle**  
+-  View **detailed stats** (HP, Attack, Defense, etc.)  
+-  Official Pokémon **sprites** from PokéAPI  
+-  **Fully responsive design** for all devices  
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 - [React.js](https://react.dev/) – Frontend framework  
 - [Tailwind CSS](https://tailwindcss.com/) – Styling  
 - [PokéAPI](https://pokeapi.co/) – Pokémon data  
@@ -23,7 +23,7 @@ This app lets you search and explore Pokémon with detailed stats, abilities, an
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 1. Clone the repository:
    ```bash
@@ -45,12 +45,6 @@ This app lets you search and explore Pokémon with detailed stats, abilities, an
    npm run dev
    ```
 
-
-## 📸 Screenshots
-_Add screenshots of your app UI here for better presentation._
-
----
-
 ## 🙌 Acknowledgements
 - Data powered by **[PokéAPI](https://pokeapi.co/)**  
-- Built with ❤️ using **React + Vite + Tailwind**  
+- Built with using **React + Vite + Tailwind**  
